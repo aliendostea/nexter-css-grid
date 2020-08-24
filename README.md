@@ -5,16 +5,27 @@
 ## What I learn in this course
 
 ⚡️ Why and when use CSS Grid.
+
 ⚡️ Build complex and modern layout using advanced CSS Grid techniques.
+
 ⚡️ CSS Grid: fr unit, grid track, repeat, min-content & max-content, minmax() function, grid-template-columns & rows, grid-template-areas, grid-column & grid-row, positioning Grid items, naming Grid areas & lines, and more.
+
 ⚡️ Create a responsive component without media queries.
+
 ⚡️ Build components using CSS Grid.
+
 ⚡️ The difference between explicit and implicit grids.
+
 ⚡️ When use CSS Grid or Flexbox.
+
 ⚡️ Using Sass in real-world projects: global variables, architecting CSS, managing media queries, Mixins, Extends and Functions.
+
 ⚡️ The NPM ecosystem: development workflows and building processes.
+
 ⚡️ CSS architecture: component-based design, BEM, writing reusable code, etc.
+
 ⚡️ The Easiest Way of Automatically Reloading a Page on File Changes.
+
 ⚡️ Cross browser testing & support with @supports.
 
 ---
