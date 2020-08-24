@@ -1,6 +1,6 @@
 # Udemy course Nexter - CSS Grid ⚡️
 
-## Create a Nexter Landing Project with CSS Grid
+## Create a Nexter Landing Project with CSS Grid - 2018
 
 ## What I learn in this course
 
